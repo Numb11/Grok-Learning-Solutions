@@ -1,0 +1,3 @@
+#Grok Into to Python 2.1
+text = input("Enter text: ")
+print(len(text))
