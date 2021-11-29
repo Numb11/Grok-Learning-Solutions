@@ -1,0 +1,6 @@
+password = "chEEzburg3rz"
+attempt = input("Enter password: ")
+if attempt == password:
+  print("Access granted")
+else:
+  print("Access denied")
