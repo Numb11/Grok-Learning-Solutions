@@ -1,0 +1,4 @@
+encrypted = input("What did she say? ")
+encrypted = (encrypted.replace("###","o"))
+encrypted = (encrypted.replace("##","e"))
+print("She meant to say:",encrypted.replace("%%","a"))
